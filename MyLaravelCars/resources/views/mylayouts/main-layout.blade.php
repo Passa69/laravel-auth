@@ -12,11 +12,11 @@
 </head>
 <body>
     <div id="app">
-        @extends('components.header')
+        @include('components.header')
         
         @yield('content')
         
-        @extends('components.footer')
+        @include('components.footer')
     </div>
 </body>
 </html>
