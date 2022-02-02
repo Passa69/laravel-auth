@@ -6,3 +6,10 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+
+body, a {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}

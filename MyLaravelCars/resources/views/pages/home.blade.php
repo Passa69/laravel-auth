@@ -1,0 +1,7 @@
+@extends('mylayouts.main-layout')
+@section('content')
+    
+    <h1>Hello World</h1>
+
+    <exemple-content></exemple-content>
+@endsection
