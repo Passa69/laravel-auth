@@ -3,5 +3,5 @@
     
     <h1>Hello World</h1>
 
-    <exemple-content></exemple-content>
+    <example-component></example-component>
 @endsection
